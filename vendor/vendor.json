@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "fcfxNsCuheCrubAAl6zWgimCnLY=",
+			"path": "github.com/codegangsta/inject",
+			"revision": "33e0aa1cb7c019ccc3fbe049a8262a6403d30504",
+			"revisionTime": "2015-01-14T23:56:00Z"
+		},
+		{
+			"checksumSHA1": "/84AtcDq8vtLiZARgDbJqqucJ8A=",
+			"path": "github.com/codeskyblue/go-sh",
+			"revision": "ceb46ec4630a726eeed51d0a70066c9e1102c48f",
+			"revisionTime": "2016-05-28T10:32:55Z"
+		},
+		{
+			"checksumSHA1": "lEuAuEXh42xoG+Ygw90K3EF99Xo=",
+			"path": "github.com/fatih/color",
+			"revision": "dea9d3a26a087187530244679c1cfb3a42937794",
+			"revisionTime": "2016-10-02T08:12:59Z"
+		},
+		{
+			"checksumSHA1": "ugnSryGF6VPBb5s87QgoRH6730g=",
+			"path": "github.com/mattn/go-colorable",
+			"revision": "6c903ff4aa50920ca86087a280590b36b3152b9c",
+			"revisionTime": "2016-09-30T08:41:57Z"
+		},
+		{
+			"checksumSHA1": "xZuhljnmBysJPta/lMyYmJdujCg=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "66b8e73f3f5cda9f96b69efd03dd3d7fc4a5cdb8",
+			"revisionTime": "2016-08-06T12:27:52Z"
+		}
+	],
+	"rootPath": "github.com/Shark/orca"
+}
